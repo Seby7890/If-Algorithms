@@ -2,19 +2,19 @@ import java.util.Scanner;
 
 public class If {
     public static void main(String[] args) {
-        isWaterBoiling();
-        isHighestNumber();
-        isEvenOrOdd();
-        isDivisible();
-        isEqual();
-        isLeapYear();
-        isSmallestNumber1();
-        isSmallestNumber2();
-        isWeekday();
-        isSumOfConsecutiveNumbers();
-        getMonth(3);
-        showFirstHalfString();
-        isPasswordValid();
+        isWaterBoiling();                       //1
+        isHighestNumber();                      //2
+        isEvenOrOdd();                          //3
+        isDivisible();                          //4
+        isEqual();                              //5
+        isLeapYear();                           //6
+        isSmallestNumber1();                    //7
+        isSmallestNumber2();                    //8
+        isWeekday();                            //9
+        isSumOfConsecutiveNumbers();            //10
+        getMonth(3);                         //11
+        showFirstHalfString();                  //12
+        isPasswordValid();                      //13
     }
 
     //1. Boiling water
